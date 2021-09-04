@@ -88,5 +88,6 @@ Some time later an opportunity came up to create a website, later an application
  
  <h1 align='center'>Thank's for reading at here, now enjoy a meme 😂</h1>
 
- 
+  <div align="center"> 
  <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+ </div> 
