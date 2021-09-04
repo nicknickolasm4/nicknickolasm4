@@ -59,7 +59,7 @@
   <img align="center" alt="Nick-mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
   
-  <h1 align='center'>Others</h1>
+  <h1 align='center'>Outros</h1>
 
 <div style="display: inline_block" align='center'><br> 
   <img align="center" alt="Nick-wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
