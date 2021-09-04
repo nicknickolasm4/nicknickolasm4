@@ -2,19 +2,25 @@
 ## Hi, my name is Nickolas Mariano
  <div>
   <a href="https://github.com/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicknickolasm4&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicknickolasm4&layout=compact&langs_count=7&theme=blue-green"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicknickolasm4&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+ </a>
+  </div>
  
- <div> 
+ <div align="center"> 
   <a href="https://www.nicksdesign.com.br" target="_blank"><img src="https://img.shields.io/website-on-off-green-red/http/nicksdesign.com.br.svg?style=for-the-badge" target="_blank"></a>
   <a href="https://instagram.com/nickmarianoo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:nicknickolasm4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+    <a href="https://github.com/DenverCoder1/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+
  
   ![Snake animation](https://raw.githubusercontent.com/nicknickolasm4/nicknickolasm4/main/output/github-user-contribution.svg)
  
 </div>
+ 
+ 
  
  ## Some Programming languages
  
@@ -78,3 +84,8 @@ I started to learn basic languages such as HTML AND PHP, but my creativity was s
 Some time later an opportunity came up to create a website, later an application, then software, and so the opportunities turned into a job and, alone, always creating and learning in a new language or framework, I became a free lancer. Currently I am studying science and technology at the Federal University of Alfenas and I continue to manage my own work.
   </p>
  <a href="/READMEPTBR.MD">Readme em Português</a>
+ 
+ 
+ ## Thank's, now enjoy a meme
+ 
+ <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
