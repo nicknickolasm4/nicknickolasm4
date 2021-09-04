@@ -4,7 +4,7 @@
   <a href="https://www.nicksdesign.com.br" target="_blank"><img src="https://img.shields.io/website-on-off-green-red/http/nicksdesign.com.br.svg?style=for-the-badge" target="_blank"></a>
   <a href="https://instagram.com/nickmarianoo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:nicknickolasm4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://github.com/nicknickolasmr">
+          <a href="https://github.com/nicknickolasm4">
     <img alt="views" title="GitHub profile views" src="https://nicksdesign.com.br/github_badge/"/></a>
  
 
@@ -17,7 +17,7 @@
 </div>
  
 <div>
-  <a href="https://github.com/">
+  <a href="https://github.com/nicknickolasm4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicknickolasm4&show_icons=true&include_all_commits=true&count_private=true"/>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
   
