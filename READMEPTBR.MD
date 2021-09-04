@@ -1,18 +1,13 @@
-<h1 align='center'Olá, meu nome é Nickolas Mariano</h1>
+<h1 align='center'>Olá, meu nome é Nickolas Mariano</h1>
+
+
  <div align="center"> 
   <a href="https://www.nicksdesign.com.br" target="_blank"><img src="https://img.shields.io/website-on-off-green-red/http/nicksdesign.com.br.svg?style=for-the-badge" target="_blank"></a>
   <a href="https://instagram.com/nickmarianoo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:nicknickolasm4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
           <a href="https://github.com/nicknickolasm4">
     <img alt="views" title="GitHub profile views" src="https://nicksdesign.com.br/github_badge/"/></a>
- 
 
- 
- 
- 
- 
- 
- 
 </div>
  
 <div>
