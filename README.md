@@ -72,4 +72,4 @@ I started to learn basic languages such as HTML AND PHP, but my creativity was s
 
 Some time later an opportunity came up to create a website, later an application, then software, and so the opportunities turned into a job and, alone, always creating and learning in a new language or framework, I became a free lancer. Currently I am studying science and technology at the Federal University of Alfenas and I continue to manage my own work.
  
- <a href="/readmept.md">Readme em Português</a>
+ <a href="/READMEPTBR.MD">Readme em Português</a>
