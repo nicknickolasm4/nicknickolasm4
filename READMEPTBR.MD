@@ -71,7 +71,7 @@
     
 ##
 
-- 🔭 Atualmente estou trabalhando no Frelancer, desde 2015
+- 🔭 Atualmente estou trabalhando no Freelancer, desde 2015
 - 🌱 Atualmente estou aprendendo Frameworks JS, e estudando na Universidade Federal de Alfenas - Poços de caldas - MG Brasil
 - 💬 Sobre Mim:
 <p>
@@ -79,7 +79,7 @@ Nasci em 1999, na cidade de Aparecida, em uma casa onde vivia com meus pais, uma
 </p><p>
 Comecei a aprender linguagens básicas, como HTML E PHP, mas minha criatividade continuava limitada, então comecei a criar servidores MOD de jogos, porém mais alterações precisavam ser feitas para que eu pudesse continuar criando, aprendi então outras linguagens para programar plug in e open sources e me deparei com a linguagem C++. Obtive aí meu primeiro desafio, já que eu nunca tinha me deparado com uma linguagem como essa, eu precisava fazer o código funcionar, estudei até aprendê-la. Com o jogo pronto e lançado o mantive online por bastante tempo até que surgiu uma oportunidade de trabalhar em uma unidade bancária, como a programação era um hobbie, decidi ir e continuar criando projetos pessoais.  
 </p><p>
-Algum tempo depois surgiu uma oportunidade de criar um site, mais tarde um aplicativo, depois um software, e assim as oportunidades viraram um trabalho e, sozinho, sempre criando em uma nova linguagem ou framework, me tornei um free lancer. Atualmente curso ciências e tecnologia na universidade federal de alfenas e continuo regendo meus próprios trabalhos. 
+Algum tempo depois surgiu uma oportunidade de criar um site, mais tarde um aplicativo, depois um software, e assim as oportunidades viraram um trabalho e, sozinho, sempre criando em uma nova linguagem ou framework, me tornei um freelancer. Atualmente curso ciências e tecnologia na universidade federal de alfenas e continuo regendo meus próprios trabalhos. 
 <p>
  
  <a href="/README.md">Readme in english</a>
