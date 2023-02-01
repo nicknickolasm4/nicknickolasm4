@@ -84,9 +84,7 @@ Algum tempo depois surgiu uma oportunidade de criar um site, mais tarde um aplic
  
  <a href="/README.md">Readme in english</a>
  
- <h1 align='center'>Obrigado por ler até aqui, agora aprecie um meme 😂</h1>
+ <h1 align='center'>Obrigado por ler até aqui</h1>
 
-  <div align="center"> 
- <img src='https://random-memer.herokuapp.com/' height="400" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
- </div> 
+
 
