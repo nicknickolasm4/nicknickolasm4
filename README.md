@@ -13,11 +13,7 @@
 </div>
  
 <div>
-  <a href="https://github.com/nicknickolasm4">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicknickolasm4&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="330" height="180" />
-  
- </a>
+
   </div>
  
  ![Snake animation](https://raw.githubusercontent.com/nicknickolasm4/nicknickolasm4/main/output/github-user-contribution.svg)
