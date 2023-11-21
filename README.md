@@ -74,12 +74,15 @@
 - 🔭 I’m currently working on Freelancer, since 2015
 - 🌱 I’m currently learning Frameworks JS, and Studying  in University Federal of Alfenas - Poços de caldas - MG Brasil
 - 💬 About Me:
-<p>I was born in 1999, in the town of Aparecida, in a house where I lived with my parents, a sister, and a brother. As I was struggling in school, my parents decided to give me a computer to help with my homework. Then, at the age of 8 I got my first computer and started to understand how the Internet worked. My curiosity started to awaken while I played games and saw blogs on the net, I wanted to change them, make innovations, but I didn't have the knowledge to do it. Faced with these limitations I decided to take an initiative to learn how to create platforms. 
- <p></p>
-I started to learn basic languages such as HTML AND PHP, but my creativity was still limited, so I started to create game MOD servers, but more changes needed to be made so I could continue creating, so I learned other languages to program plug in and open sources and then I came across the C++ language. There I got my first challenge, since I had never come across a language like this, I needed to make the code work, I studied until I learned it. With the game ready and released I kept it online for a long time until an opportunity arose to work in a bank unit, as programming was a hobby, I decided to go and create personal projects to continue learning new languages. 
- <p></p>
-Some time later an opportunity came up to create a website, later an application, then software, and so the opportunities turned into a job and, alone, always creating and learning in a new language or framework, I became a freelancer. Currently I am studying science and technology at the Federal University of Alfenas and I continue to manage my own work.
+<p>I was born in 1999, in the picturesque city of Aparecida, where I was fortunate to grow up in a harmonious home with my parents, a sister, and a brother. During my childhood, I faced some academic challenges, which led my parents to gift me a computer to assist with my school tasks. At the age of 8, I received my first computer and began my journey of discovery through the internet. While playing games and exploring blogs, I felt a strong desire to modify and innovate these platforms, but at the time, I did not possess the necessary knowledge. Faced with these limitations, I decided to learn how to create digital platforms.
+</p> <p>
+I began my programming education with basic languages, such as HTML and PHP. However, I felt that my creativity was still restricted. Thus, I began to create MOD servers for games. However, to continue enhancing my skills, I needed to learn other languages to program plug-ins and open sources. That’s when I encountered the C++ language. This was a significant challenge, as I had never worked with such a complex language. I dedicated myself to studying until I mastered it. After launching the game, I kept it online for a considerable period.
+</p> <p>
+Later, an opportunity arose to work in a banking unit. As programming was initially a hobby, I decided to accept the offer and continued to develop personal projects. Over time, opportunities arose to create a website, an app, and later, a software. These opportunities transformed into professional work and, by constantly learning new languages and frameworks, I became a freelancer.
   </p>
+  <p>
+   Currently, I am pursuing a degree in Science and Technology at the renowned Federal University of Alfenas and continue to conduct my own projects. I believe that my diverse experience and my passion for continuous learning make me an ideal professional for any position that requires innovation and adaptability.
+    </p> 
  <a href="/READMEPTBR.MD">Readme em Português</a>
  
  <h1 align='center'>Thank's for reading at here</h1>
