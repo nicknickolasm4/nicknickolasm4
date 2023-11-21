@@ -75,13 +75,15 @@
 - 🌱 Atualmente estou aprendendo Frameworks JS, e estudando na Universidade Federal de Alfenas - Poços de caldas - MG Brasil
 - 💬 Sobre Mim:
 <p>
-Nasci em 1999, na cidade de Aparecida, em uma casa onde vivia com meus pais, uma irmã e um irmão. Como eu apresentava dificuldades na escola, meus pais decidiram me dar um computador para ajudar nas lições de casa. Então, com 8 anos ganhei meu primeiro computador e comecei a entender como a internet funcionava. Minha curiosidade começou a despertar enquanto eu jogava e via blogs na rede, eu queria mudá-los, fazer inovações, mas não tinha conhecimento para realizar. Perante essas limitações decidi tomar uma iniciativa para saber como criar plataformas. 
+Nasci em 1999, na pitoresca cidade de Aparecida, onde tive a sorte de crescer em um lar harmonioso com meus pais, uma irmã e um irmão. Durante minha infância, enfrentei alguns desafios acadêmicos, o que levou meus pais a me presentearem com um computador para auxiliar em minhas tarefas escolares. Aos 8 anos, recebi meu primeiro computador e iniciei minha jornada de descoberta pela internet. Enquanto jogava e explorava blogs, senti um forte desejo de modificar e inovar essas plataformas, mas na época, não possuía o conhecimento necessário. Diante dessas limitações, decidi aprender a criar plataformas digitais.
 </p><p>
-Comecei a aprender linguagens básicas, como HTML E PHP, mas minha criatividade continuava limitada, então comecei a criar servidores MOD de jogos, porém mais alterações precisavam ser feitas para que eu pudesse continuar criando, aprendi então outras linguagens para programar plug in e open sources e me deparei com a linguagem C++. Obtive aí meu primeiro desafio, já que eu nunca tinha me deparado com uma linguagem como essa, eu precisava fazer o código funcionar, estudei até aprendê-la. Com o jogo pronto e lançado o mantive online por bastante tempo até que surgiu uma oportunidade de trabalhar em uma unidade bancária, como a programação era um hobbie, decidi ir e continuar criando projetos pessoais.  
+Iniciei minha educação em programação com linguagens básicas, como HTML e PHP. No entanto, senti que minha criatividade ainda estava restrita. Assim, comecei a criar servidores MOD para jogos. No entanto, para continuar aprimorando minhas habilidades, precisei aprender outras linguagens para programar plug-ins e open sources. Foi quando me deparei com a linguagem C++. Este foi um desafio significativo, pois nunca tinha trabalhado com uma linguagem tão complexa. Dediquei-me a estudar até dominá-la. Após o lançamento do jogo, mantive-o online por um período considerável.
 </p><p>
-Algum tempo depois surgiu uma oportunidade de criar um site, mais tarde um aplicativo, depois um software, e assim as oportunidades viraram um trabalho e, sozinho, sempre criando em uma nova linguagem ou framework, me tornei um freelancer. Atualmente curso ciências e tecnologia na universidade federal de alfenas e continuo regendo meus próprios trabalhos. 
-<p>
- 
+Posteriormente, surgiu uma oportunidade de trabalhar em uma unidade bancária. Como a programação era inicialmente um hobby, decidi aceitar a oferta e continuei a desenvolver projetos pessoais. Com o tempo, surgiram oportunidades para criar um site, um aplicativo e, posteriormente, um software. Essas oportunidades transformaram-se em um trabalho profissional e, ao aprender constantemente novas linguagens e frameworks, tornei-me um freelancer.
+</p>
+ <p>
+Atualmente, estou cursando Ciências e Tecnologia na Universidade Federal de Alfenas e continuo a conduzir meus próprios projetos. Acredito que minha experiência diversificada e minha paixão pela aprendizagem contínua me tornam um profissional ideal para qualquer posição que exija inovação e adaptabilidade.
+</p>
  <a href="/README.md">Readme in english</a>
  
  <h1 align='center'>Obrigado por ler até aqui</h1>
