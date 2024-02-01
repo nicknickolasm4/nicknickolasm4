@@ -9,7 +9,6 @@
 
  
  
- 
 </div>
  
 <div>
@@ -66,8 +65,12 @@
   <img align="center" alt="Nick-express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Nick-jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
 </div>
+    <h1 align='center'>My activity for the week</h1>
+    <div align="center" >
+     
   
-  
+  ![](https://github-readme-stats.vercel.app/api/wakatime?username=nickmarianoo&api_domain=wakapi.dev&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
+   </div>
 ##
 
   
