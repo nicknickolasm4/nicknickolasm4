@@ -47,4 +47,4 @@ Over the years, I've transitioned from hobbyist projects to professional freelan
 - 🌱 Actively learning JavaScript frameworks and enhancing my development skills.
 - 🎓 Studying Science and Technology at the Federal University of Alfenas (UNIFAL), Poços de Caldas - MG, Brazil.
 
-👉 For the Portuguese version, see [README-ptbr.md](README-ptbr.md)
+👉 For the Portuguese version, see [READMEPTBR.MD](READMEPTBR.MD)
